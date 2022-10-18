@@ -20,6 +20,7 @@ The project contains files:
 - `Department.java` - definition of departments
 - `HumanResources.java` - the main flow of program
 - `ICalculator.java` - interface with methods calculating wage
+- `WageComparator.java` - definition of comparator for sorting in increasing or decreasing order
 
 Some functional features include:
 - Display a list of all employees in the company
